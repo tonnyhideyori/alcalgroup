@@ -13,10 +13,8 @@ class Footer extends Component{
   </p>
       </div>
       <div className="w3-panel w3-border-bottom w3-border-green">
-      <p style={{float: "left"}}> &copy;2017 Alcal group &reg;ltd&nbsp;&nbsp;&nbsp;&nbsp; designed by Edwin Ismail&nbsp;&nbsp;Email:&nbsp;&nbsp;<b>eismail44(at)gmaildotcom</b>
-  &nbsp; &nbsp;</p>
+      <p> &copy;2017 Alcal group &reg;ltd&nbsp;&nbsp;&nbsp;&nbsp;<br/> designed by Edwin Ismail&nbsp;&nbsp;Email:<b>eismail44@gmail.com</b></p>
       </div>
-      
       </footer>
 
     );
