@@ -1,10 +1,9 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {Link} from 'react-router-dom';
 import App from './App';
-import Tabs from './Tabs';
 import Us from './Us'
 import Service from './Service';
-import Contact from './Contact'
+
 const NavbarInstance=()=>{
 
 return(
@@ -21,7 +20,7 @@ return(
       <Link to="/" component={App}>Home</Link></li>
       <li><Link to="/us" component={Us}>About Us</Link></li>
       <li><Link to="/service" component={Service}>Service</Link></li>
-      
+
     </ul>
 
   </div>

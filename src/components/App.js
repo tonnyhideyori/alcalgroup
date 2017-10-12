@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import NavbarInstance from './Navbar'
 import Slidingimage from './SlidingImage'
-import Service from './Service'
 import Ebus from './Ebus'
 import Pos from './Pos'
 import Ad from './Ad'

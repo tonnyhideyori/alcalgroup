@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Ebus from './Ebus'
 import Pos from './Pos'
 import Ad from './Ad'

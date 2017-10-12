@@ -5,7 +5,6 @@ import './css/index.css';
 import './css/App.css'
 import './css/w3.css'
 import Service from './components/Service'
-import Contact from './components/Contact'
 import Us from './components/Us'
 import App from './components/App';
 

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import NavbarInstance from './Navbar'
 import Slidingimage from './SlidingImage'
 import Footer from './Footer'
