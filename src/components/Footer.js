@@ -9,7 +9,7 @@ class Footer extends Component {
       >
         <div className="w3-panel w3-border-bottom w3-border-green">
           <h3>CONTACT US</h3>
-          <p>Our andress</p>
+          <p>Our address</p>
           <p>
             Sam Nujoma Road,Opposite Mlimani city mall,Kinondoni,&nbsp;&nbsp;
             P.O.Box 71839, Dar Es Salaam,Tanzania.&nbsp; &nbsp;<br />
@@ -20,8 +20,8 @@ class Footer extends Component {
         <div className="w3-panel w3-border-bottom w3-border-green">
           <p>
             {" "}
-            &copy;2017 Alcal group &reg;ltd&nbsp;&nbsp;&nbsp;&nbsp;<br />{" "}
-            designed by Edwin Ismail&nbsp;&nbsp;Email:<b>eismail44@gmail.com</b>
+            &copy;2017 Alcal group &reg;ltd&nbsp;&nbsp;&nbsp;&nbsp;<br />
+            
           </p>
         </div>
       </footer>
